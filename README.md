@@ -1,4 +1,6 @@
 # devops-aula04
 <br>Velozes e Furiosos 2</br>
-<br>Velozes e Furiosos 5</br>
+<br>Mandando bala</br>
 <br>Velozes e Furiosos 7</br>
+<br>Carga Explosiva</br>
+
